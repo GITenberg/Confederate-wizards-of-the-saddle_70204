@@ -1,0 +1,27 @@
+_repo: Confederate-wizards-of-the-saddle_70204
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Bennett Henderson
+    gutenberg_agent_id: '55651'
+    url: http://www.gutenberg.org/2009/agents/55651
+description: ''
+gutenberg_issued: '2023-03-04'
+identifiers:
+  gutenberg: '70204'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924030921260/mode/2up
+pgterms:marc905: 20200528181515young
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Bob Taylor, Carlos Colon, the Cornell University Library and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bChapple Publishing Company, Ltd., $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Confederate wizards of the saddle
+url: http://www.gutenberg.org/ebooks/70204
