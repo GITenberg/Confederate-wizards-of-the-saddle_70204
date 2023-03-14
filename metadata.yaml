@@ -1,11 +1,16 @@
 _repo: Confederate-wizards-of-the-saddle_70204
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70204-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Bennett Henderson
     gutenberg_agent_id: '55651'
     url: http://www.gutenberg.org/2009/agents/55651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70204#Confederate-wizards-of-the-saddle
 gutenberg_issued: '2023-03-04'
 identifiers:
   gutenberg: '70204'
